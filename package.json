@@ -1,0 +1,12 @@
+{
+  "name": "22-backbone-router-and-models",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass ./scss/main.scss ./css/styles.css --watch & serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
